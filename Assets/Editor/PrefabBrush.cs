@@ -13,10 +13,10 @@ public class PrefabBrush : EditorWindow
 
     bool useRndRotation = true;
     [Range(-180, 180)] float minRotation = -180;  // 최소 회전 각도
-    [Range(-180, 180)] float maxRotation = 180;  // 최소 회전 각도
+    [Range(-180, 180)] float maxRotation = 180;  // 최대 회전 각도
     [Range(0, 360)] float minSlope = 0f;
     [Range(0, 360)] float maxSlope = 360f;
-    Object obj = null;  // 대상 오브젝트
+    Object obj = null;  // 브러쉬로 배치할 오브젝트
 
     #region Editor Window
 
