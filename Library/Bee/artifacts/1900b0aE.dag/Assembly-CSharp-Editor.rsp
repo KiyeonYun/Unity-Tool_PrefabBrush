@@ -368,11 +368,6 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Editor/PrefabBrush.cs"
-"Assets/GameObjectBrush/Scripts/Editor/AddObjectPopup.cs"
-"Assets/GameObjectBrush/Scripts/Editor/BrushCollection.cs"
-"Assets/GameObjectBrush/Scripts/Editor/BrushObject.cs"
-"Assets/GameObjectBrush/Scripts/Editor/GameObjectBrushEditor.cs"
-"Assets/GameObjectBrush/Scripts/Editor/StringPopupDialog.cs"
 -langversion:9.0
 
 /deterministic

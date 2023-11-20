@@ -58,12 +58,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.9f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\GameObjectBrush\Scripts\Editor\GameObjectBrushEditor.cs" />
-    <Compile Include="Assets\GameObjectBrush\Scripts\Editor\AddObjectPopup.cs" />
     <Compile Include="Assets\Editor\PrefabBrush.cs" />
-    <Compile Include="Assets\GameObjectBrush\Scripts\Editor\BrushObject.cs" />
-    <Compile Include="Assets\GameObjectBrush\Scripts\Editor\BrushCollection.cs" />
-    <Compile Include="Assets\GameObjectBrush\Scripts\Editor\StringPopupDialog.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
